@@ -1,0 +1,6 @@
+{
+  "name": "LocalLens — Mumbai Local Train Journey Planner",
+  "description": "Intelligent commuting platform for Mumbai local train passengers with route options, interchange points, crowd intelligence, and trust-first data provenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
